@@ -1,6 +1,6 @@
 {
   "name": "@ydtalel/ajs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
@@ -10,7 +10,7 @@
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "git repository": "https://github.com/Ydtalel/ajs.git",
+  "repository": "https://github.com/Ydtalel/ajs.git",
   "author": "",
   "license": "ISC",
   "devDependencies": {
